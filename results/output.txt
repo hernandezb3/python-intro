@@ -1,0 +1,392 @@
+split_location[2]: 
+
+ 2
+Australia     1
+Canada       25
+China         2
+Hawai'i       1
+Hawaii        6
+Hawai’i       1
+Malaysia      3
+Mexico        1
+Peru          2
+Taiwan        8
+Virginia      1
+Name: count, dtype: int64 
+
+
+split_location[1]: 
+
+ 1
+Alabama                   7
+Alaska                    4
+Alberta                   2
+Arizona                   4
+Belgium                   1
+British Columbia          5
+Calfornia                 1
+California              364
+Californiaa               1
+Canada                    2
+Chia-Yi                   1
+Chia-yi                   1
+China                    42
+Colombia                  5
+Colorado                 73
+Colorado                  1
+Connecticut              19
+D.C.                      4
+England                   9
+Florida                  30
+Georgia                  20
+Guatemala                29
+Hawai'i                  11
+Hawaii                   39
+Hawaii                    1
+Hawai’i                  25
+Honduras                  1
+Hong Kong                 2
+Idaho                     1
+Illinois                 45
+Indonesia                 2
+Iowa                      1
+Japan                    15
+Kansas                   23
+Kauai                     1
+Kauia                     1
+Kentucky                  1
+Kenya                     1
+Laos                      1
+Louisiana                 1
+MInnesota                16
+Maine                    22
+Maryland                  3
+Massachusetts            30
+Maui                      6
+Mexico                    3
+Michigan                  9
+Minnesota               129
+Mississippi               4
+Missouri                  1
+Montana                  77
+Nantou                    3
+Nevada                   26
+New Hampshire            11
+New Jersey               28
+New Mexico                4
+New Taipei City           1
+New York                 32
+North Carolina           35
+Nova Scotia               1
+Oaxaca                    1
+Ohio                      8
+Oklahoma                  4
+Ontario                  14
+Oregon                   19
+Oregon                    2
+Pennsylvania             14
+Quebec                    1
+Sabah                     3
+Saskatchewan              2
+Satipo Province           2
+Slovakia                  1
+South Korea               2
+Sydney                    1
+Taichung                  1
+Taipei City               1
+Taiwan                  578
+Tennessee                 5
+Texas                    17
+Thailand                  4
+Uganda                    1
+United Arab Emirates      3
+Vermont                   2
+Virginia                103
+Virginia                  1
+Virginia and Floyd        1
+Washingto                 1
+Washington               37
+Wisconsin               178
+Wyoming                  33
+Name: count, dtype: int64 
+
+
+split_location[0]: 
+
+ 0
+ Chia-Yi                     1
+ Hong Kong                   1
+ Lexington                   1
+ Minneapolis                 1
+ Sacramento                  1
+Albuquerque                  4
+Altadena                     1
+Antigua                     29
+Antwerp                      1
+Asheville                    1
+Ashland                      1
+Atlanta                      1
+Austin                       9
+Baltimore                    1
+Bangkok                      4
+Banqiao                      1
+Battle Creek                 3
+Bayboro                      2
+Bedford                      8
+Beijing                      2
+Bellingham                   2
+Belmar                       1
+Belvedere                    1
+Bend                         4
+Berkeley                    14
+Berkeley and Sacramento      4
+Big Lake                     4
+Bigfork                      2
+Billings                    17
+Bogota                       5
+Bonney Lake                  1
+Boston                       2
+Boulder                     23
+Bozeman                     41
+Branford                    15
+Branford Connecticut         1
+Brewer                       2
+Brooklyn                     6
+Buffalo                      3
+Burlington                   2
+Calgary                      2
+Cambridge                    1
+Campbell                     2
+Canton                       1
+Caotun                       3
+Cape Coral                   1
+Captain Cook                13
+Carbondale                   1
+Carlsbad                     7
+Castorland                   1
+Champaign                    1
+Changhua                     1
+Changhua County              3
+Charlotte                   25
+Charlottesville              1
+Chia-Yi                    148
+Chia-Yi City                 3
+Chicago                     37
+Chino                       10
+Chiya-Yi                     4
+Cincinnati                   1
+Clark                        8
+Columbus                     1
+Conrad                       1
+Crystal Lake                 5
+Dallas                       1
+Dayton                       1
+Denver                      17
+Des Moines                   1
+Douliou City                 7
+Driftless                    3
+Dubai                        3
+Duluth                       1
+Durango                     24
+Durham                       1
+Eagle Harbor                 4
+El Cerrito                   1
+Emeryville                   4
+Empire                       1
+Entebbe                      1
+Escondido                    4
+Eugene                       2
+Fairfax                      1
+Fitchburg                    3
+Floyd                       41
+Fort Bragg                   2
+Fort Lauderdale              2
+Gibsons                      2
+Glendale                     9
+Glendora                     1
+Grove City                   7
+Halifax                      1
+Hamilton                    11
+Hangzhou                     3
+Harrisonburg                10
+Hastings-on-Hudson           1
+Helena                       4
+Henderson                   16
+Highland Park                1
+Hillsborough                 3
+Holualoa                    38
+Hong Kong                   21
+Hoover                       7
+Houston                      4
+Hsinchu                     19
+I-Lan City                   1
+Ipswich                      1
+Islamorada                   1
+Jackson                      4
+Jakarta                      2
+Jersey City                 24
+Johns Creek                 13
+Ka'u                         1
+Kailua-Kona                  3
+Kalaheo                      2
+Kalamazoo                    1
+Kaohsiung                   10
+Kaohsiung City              19
+Kealakekua                   1
+Keelung                      2
+Kiambu County                1
+Kihei                        7
+Kobe                         1
+Kosice                       1
+Kota Kinabalu                3
+Kountze                      1
+Kowloon                      2
+Lake Forest                  1
+Landover                     1
+Lee                         21
+Lexington                   33
+Lincoln                     12
+Llayla District              2
+Lloydminster                 2
+London                       9
+Los Angeles                 15
+Louisville                   1
+Macao                        2
+Madison                    162
+Manassas                    15
+Manlius                     19
+Markham                      1
+Martinez                    16
+Marysville                   2
+Maryville                    1
+Matthews                     1
+Mayville                     1
+McMinnville                  2
+Meeteetse                    3
+Memphis                      1
+Mendocino                    2
+Mexico City                  1
+Miami                        5
+Milwaukee                    2
+Minneapolis                133
+Minnesota                    2
+Minxiong                     2
+Missoula                     1
+Montrose                     5
+Mountain View               10
+Nantou                       9
+Nashua                       3
+Nashville                    2
+New Orleans                  1
+New Taipei                   3
+New Taipei City             32
+Newport Beach                1
+Newtown                      1
+North Canaan                 1
+Northfield                   1
+Oakland                     10
+Oakville                     1
+Olympia                      4
+Orlando                      1
+Osaka                        6
+Pahala                       9
+Paju City (Gyeonggi-do)      1
+Philadelphia                 2
+Phoenix                      2
+Pingtung                     4
+Pittsburgh                   2
+Pleasanton                   1
+Plymouth                     2
+Pompton Plains               1
+Portland                    32
+Poulsbo                      2
+Putnam                       1
+Raleigh                      1
+Ramsey                       5
+Redding                      7
+Redlands                     3
+Reno                        10
+Renton                       1
+Richmond                     2
+Roanoke                      2
+Rochester                    2
+Sacamento                    1
+Sacramento                  77
+Salem                        2
+Salisbury                    1
+San Antonio                  2
+San Diego                  112
+San Francisco                5
+San Jose                     7
+San Juan Lachao              1
+San Rafael                  17
+Sandpoint                    1
+Santa Barbara                1
+Santa Cruz                   1
+Santa Monica                 3
+Santa Rosa Beach            16
+Santa Rosa de Copan          1
+Sapporo                      1
+Savannah                     1
+Seattle                     10
+Shakopee                     1
+Shanghai                    13
+Sherbrooke                   1
+Silver Lake                  2
+Songshan District            1
+South Korea                  1
+Spokane                     15
+St. Johns                    4
+St. Louis                    1
+Stevensville                 1
+Sunbury                      3
+Suwanee                      1
+Tacoma                       2
+Taiching                     1
+Taichung                    27
+Taichung City               14
+Tainan                       3
+Tainan City                 12
+Taipai                       1
+Taipei                     117
+Taipei City                 26
+Taitung                      3
+Taiwan                       1
+Taoyuan                     23
+Taoyuan City                19
+Telluride                    2
+Temecula                     1
+Tequesta                     4
+Thermopolis                 22
+Thornton                     2
+Tijuana                      2
+Tochigi                      7
+Topeka                      23
+Toronto                     13
+Torrington                   1
+Truckee                      8
+Tucson                       2
+Tulsa                        4
+Tustin                       2
+Ukiah                        1
+Vancouver                    1
+Ventura                      2
+Victoria                     1
+Vientiane                    1
+Viroqua                      8
+Wake Forest                  1
+Washington                   4
+Waterbury Center             1
+Whitefish                    1
+Xinbei                       2
+Xitun District               1
+Yilan                       56
+Yongin-Si                    1
+Youngstown                   5
+Yuanlin                      3
+Zhongli                      1
+Zhubei City                  2
+Zhuwei                       2
+Name: count, dtype: int64 
+
+
